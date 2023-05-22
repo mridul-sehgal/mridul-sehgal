@@ -1,5 +1,5 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/702032/screenshots/4178215/goku_800.gif">
-# 💫 About Me:
+## 🌐 Socials:
 Hi 👋, I'm Mridul Sehgal, Currently learning Data Structures and Algorithm <br>in C++ programming language while simultaneously taking up<br> Web Development<br><br>🌱 I’m currently learning App Development & DSA in C++<br>📫 How to reach me mridul.sehgal1114@gmail.com<br>⚡ Fun fact I love Football and solving Rubic's cube
 
 
